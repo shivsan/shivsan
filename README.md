@@ -1,6 +1,5 @@
-
-<span align="right"> <img src="https://profile-counter.glitch.me/shivsan/count.svg" /> <b> visits </b></span>
 <h1 align="center">Hello there, I am Siva Kumar</h1>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=shivsanjain03&label=Profile%20views&color=0e75b6&style=flat"></p>
 <h2 align="center"> Curious Learner | Backend Developer </h2>
 
 ![Mongo DB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
