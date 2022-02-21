@@ -8,4 +8,4 @@
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-<h3 align="center">A curious developer, having over 10 years of professional experience. I have worked across different technologies and frameworks. Interested to explore better architectural approaches and technologies like AWS, Kafka etc.</h3>
+<h3 align="center">A curious developer, having over 10 years of professional experience. I have worked across different technologies and frameworks. A firm believer of TDD and other practcies of XP and interested to explore better architectural approaches like DDD, event driven development and platforms/technologies like AWS, Kafka etc.</h3>
